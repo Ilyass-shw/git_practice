@@ -1,5 +1,5 @@
 # Mixed Messages - Mini Project
-simple code in JavaScript logs out a random text about different projcts and their status.
+simple code in JavaScript logs out a random text about different projects and their status.
 # Table of Contents
 * General info
 * Technologies
@@ -15,4 +15,4 @@ To run this code please clone a branch locally and run it using node:
 * git clone --branch <branchname> <remote-repo-url>
 * node file.js
 # Status
-In the making.
+Completed.
