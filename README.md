@@ -1,4 +1,4 @@
-# Mixed Messages
+# Mixed Messages - Mini Project
 simple code in JavaScript logs out a random text about different projcts and their status.
 # Table of Contents
 * General info
