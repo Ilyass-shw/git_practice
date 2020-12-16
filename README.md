@@ -1,10 +1,10 @@
 # Mixed Messages - Mini Project
 simple code in JavaScript logs out a random text about different projects and their status.
 # Table of Contents
-* General info
-* Technologies
-* Setup
-* Status
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Status](#status)
 # General info
 This tiny project is to make me practice what I learned about how to set up a new repo in GitHub and how to link and push my local repo projects to the remote one.
 # Technologies
